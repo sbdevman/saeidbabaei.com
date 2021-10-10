@@ -1,8 +1,8 @@
 module.exports = {
-  siteName: 'A blog starter for Gridsome',
-  siteDescription: "Bleda is a blog starter kit for Gridsome, the Vue.js static site generator. It's inspired by Attila for Ghost, and styled with Tailwind CSS.",
-  siteUrl: 'https://gridsome-starter-bleda.netlify.com',
-  titleTemplate: `%s | Bleda`,
+  siteName: 'Saeid Babaei',
+  siteDescription: "Saeid Babaei's Personal Website",
+  siteUrl: 'http://saeidbabaei.com',
+  titleTemplate: `%s | Saeid Babaei`,
   icon: 'src/favicon.png',
 
   transformers: {
@@ -52,14 +52,14 @@ module.exports = {
       options: {
         contentTypeName: 'Post',
         feedOptions: {
-          title: 'Bleda, a Gridsome blog starter',
-          feed_url: 'https://gridsome-starter-bleda.netlify.com/feed.xml',
-          site_url: 'https://gridsome-starter-bleda.netlify.com',
+          title: 'Saeid Babaei',
+          feed_url: 'http://saeidbabaei.com/feed.xml',
+          site_url: 'http://saeidbabaei.com',
         },
         feedItemOptions: node => ({
           title: node.title,
           description: node.description,
-          url: 'https://gridsome-starter-bleda.netlify.com' + node.path,
+          url: 'http://saeidbabaei.com' + node.path,
           author: node.author,
           date: node.date,
         }),
