@@ -1,7 +1,7 @@
 module.exports = {
   siteName: 'Saeid Babaei',
   siteDescription: "Saeid Babaei's Personal Website",
-  siteUrl: 'http://saeidbabaei.com',
+  siteUrl: 'https://saeidbabaei.com',
   titleTemplate: `%s | Saeid Babaei`,
   icon: 'src/favicon.png',
 
@@ -53,13 +53,13 @@ module.exports = {
         contentTypeName: 'Post',
         feedOptions: {
           title: 'Saeid Babaei',
-          feed_url: 'http://saeidbabaei.com/feed.xml',
-          site_url: 'http://saeidbabaei.com',
+          feed_url: 'https://saeidbabaei.com/feed.xml',
+          site_url: 'https://saeidbabaei.com',
         },
         feedItemOptions: node => ({
           title: node.title,
           description: node.description,
-          url: 'http://saeidbabaei.com' + node.path,
+          url: 'https://saeidbabaei.com' + node.path,
           author: node.author,
           date: node.date,
         }),
