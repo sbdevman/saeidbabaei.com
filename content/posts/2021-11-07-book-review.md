@@ -1,5 +1,5 @@
 ---
-title: "Markdown styling"
+title: "Book Review - Episod 1: Designing Data-Intensive Applications."
 description: "Markdown post content stress test. See how your post content is being styled with Tailwind CSS."
 date: 2019-02-27 17:54:43
 author: gridsome
