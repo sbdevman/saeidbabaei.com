@@ -4,6 +4,7 @@ description: "Writing posts in Markdown with Bleda for Gridsome"
 date: 2021-11-07 21:20:00
 author: saeid babaei
 slug: book-review-episod-1-designing-data-intensive-applications
+fullscreen: false
 tags:
     - book review
     - data
