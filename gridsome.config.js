@@ -3,7 +3,7 @@ module.exports = {
   siteDescription: "Saeid Babaei's Personal Website",
   siteUrl: 'https://saeidbabaei.com',
   titleTemplate: `%s | Saeid Babaei`,
-  icon: 'src/favicon.ico',
+  icon: 'src/favicon.png',
 
   transformers: {
     remark: {
