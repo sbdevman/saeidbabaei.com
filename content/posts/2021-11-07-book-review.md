@@ -8,7 +8,7 @@ fullscreen: false
 tags:
     - book review
     - data
-cover: https://images.unsplash.com/photo-1539815913963-92c9bfeb9d1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&h=900&crop=bottom&q=80
+cover: https://juanignaciosl.github.io/img/ddia.png
 ---
 
 **Blog posts in Bleda are written using Markdown. However, you are free to use HTML inside Markdown, for any elements not covered by the spec.**
