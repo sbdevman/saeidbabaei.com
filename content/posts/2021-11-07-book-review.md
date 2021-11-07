@@ -1,9 +1,13 @@
 ---
 title: "Book Review - Episod 1: Designing Data-Intensive Applications."
-description: "Markdown post content stress test. See how your post content is being styled with Tailwind CSS."
-date: 2019-02-27 17:54:43
-author: gridsome
-tags: ['markdown', 'design']
+description: "Writing posts in Markdown with Bleda for Gridsome"
+date: 2021-11-07 21:20:00
+author: saeid babaei
+slug: book-review-episod-1-designing-data-intensive-applications
+tags:
+    - book review
+    - data
+cover: https://images.unsplash.com/photo-1539815913963-92c9bfeb9d1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&h=900&crop=bottom&q=80
 ---
 
 **Blog posts in Bleda are written using Markdown. However, you are free to use HTML inside Markdown, for any elements not covered by the spec.**
