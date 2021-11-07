@@ -10,7 +10,7 @@
       </nav>
       <article class="max-w-xl md:max-w-2xl xl:max-w-3xl mx-auto px-6 sm:px-12 pt-16 border-b border-gray-300 pb-10 mb-16">
         <div class="markdown text-lg leading-normal text-gray-700">
-          <p>Hi, My name is Saeid Babaei. I am a Software Engieer.</p>
+          <p>Hi! <br/> Welcome! I am Saeid Babaei. I like to share my experiences and ideas and learn more about the nature of Software Development. </p>
           <h2>Portfolio</h2>
           <p>Portfolio here...</p>
           <h2>Skills</h2>
