@@ -8,7 +8,7 @@ fullscreen: false
 tags:
     - book review
     - data
-cover: ${this.config.siteUrl}/images/cover.jpeg
+cover: https://i.ibb.co/XywHGGs/cover1.jpg
 ---
 
 **Blog posts in Bleda are written using Markdown. However, you are free to use HTML inside Markdown, for any elements not covered by the spec.**
