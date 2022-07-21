@@ -7,7 +7,9 @@ slug: book-review-episod-1-designing-data-intensive-applications
 fullscreen: false
 tags:
     - book review
-    - data
+    - data design
+    - software architecture
+    - data development
 cover: https://i.ibb.co/XywHGGs/cover1.jpg
 ---
 
